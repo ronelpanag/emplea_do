@@ -278,4 +278,7 @@ $(function() {
 		});
 	});
 
+	function getCompanyInitials(companyName) {
+		console.log($(this));
+    }
 });
